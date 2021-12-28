@@ -1,6 +1,6 @@
 # transcendence
 
-To share files on social media, work on 'Technically nuked' baidu tieba while Image folder and WYTK are no longer working
+To share files on social media, work fine on [baidu tieba](https://tieba.baidu.com/) after 'Technically nuked' while Image folder and WYTK are no longer working
 
 [Image folder (not mine, I just have a copy)](https://github.com/DAF201/trash_can/blob/main/%E5%9B%BE%E7%89%87%E6%96%87%E4%BB%B6%E5%A4%B9.html)
 
