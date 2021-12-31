@@ -2,7 +2,7 @@
 
 Made out of python
 
-[如何在贴吧评论区分享文件](https://www.bilibili.com/video/BV1Cq4y1m7pS)
+[如何在贴吧评论区分享文件-bilibili](https://www.bilibili.com/video/BV1Cq4y1m7pS)
 
 To share files on social media, work fine on [baidu tieba](https://tieba.baidu.com/) after 'Technically nuked' while Image folder and WYTK are no longer working
 
